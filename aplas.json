@@ -1,21 +1,25 @@
 {
-  "id": "make_e-learning",
-  "name": "Make E-learning",
-  "categoryId": "qa",
-  "description": "Profound intangible installation",
-  "investment_24m": "551",
-  "hostedtype": "SaaS",
-  "licensing_cost": "225",
-  "status_color": "#00FF00",
-  "type": "SaaS",
-  "support_cost": "114",
-  "deployment_date": "22/11/16",
-  "end_of_maintenance": "7/4/17",
-  "department": "Research and Development",
-  "status": "Active",
-  "end_of_life": "9/10/18",
-  "sme_name": "Natasha Gossling",
-  "months_to_renew_support": "0",
-  "sme_email": "Natasha.Gossling@memento.net.au",
-  "investment_number": "212"
+  "applications": [
+    {
+      "id": "make_e-learning",
+      "name": "Make E-learning",
+      "categoryId": "qa",
+      "description": "Profound intangible installation",
+      "investment_24m": "551",
+      "hostedtype": "SaaS",
+      "licensing_cost": "225",
+      "status_color": "#00FF00",
+      "type": "SaaS",
+      "support_cost": "114",
+      "deployment_date": "22/11/16",
+      "end_of_maintenance": "7/4/17",
+      "department": "Research and Development",
+      "status": "Active",
+      "end_of_life": "9/10/18",
+      "sme_name": "Natasha Gossling",
+      "months_to_renew_support": "0",
+      "sme_email": "Natasha.Gossling@memento.net.au",
+      "investment_number": "212"
+    }
+  ]
 }
