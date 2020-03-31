@@ -19,7 +19,28 @@
       "sme_name": "Natasha Gossling",
       "months_to_renew_support": "0",
       "sme_email": "Natasha.Gossling@memento.net.au",
-      "investment_number": "212"
+      "investment_number": "212",
+      "integrations": [
+        {
+          "id": "int-351",
+          "name": "INT-351",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.",
+          "sourceApplicationId": "make_e-learning",
+          "targetApplicationId": "hyperlocal",
+          "logical_server": "CLOUD-B2B",
+          "status_color": "#00FF00",
+          "pattern": "Sync Request-Reply",
+          "golive_date": "23/2/04",
+          "sme_name": "Myranda McChruiter",
+          "datacentre": "Asia Pacific (Sydney)",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "mmcchruiterd@memento.net.au",
+          "complexity": "High",
+          "last_deployment_date": "7/8/15"
+        }
+      ]
     }
   ]
 }
