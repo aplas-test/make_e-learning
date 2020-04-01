@@ -26,7 +26,6 @@
           "name": "INT-351",
           "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
           "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.",
-          "sourceApplicationId": "make_e-learning",
           "targetApplicationId": "hyperlocal",
           "logical_server": "CLOUD-B2B",
           "status_color": "#00FF00",
